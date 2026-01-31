@@ -345,7 +345,7 @@ export const SPEAKERS = {
     { name: 'Mr. Rishikesh Patankar', image: "/images/speakers/rishikesh-patankar.jpg", title: 'Vice President', role: 'National Skill Development Corporation', linkedin: "https://www.linkedin.com/in/rishikesh-patankar-ph-d-a0bb0863" },
     { name: 'Mr. Balakrisnan I', image: "/images/speakers/balakrisnan-i.jpg", title: 'Joint Director/ Scientist', role: 'Ministry of Electronics & IT, GoI', linkedin: "https://www.linkedin.com/in/balakrishna-i-9a4257181" },
     { name: 'Mr. Apurva Kumar Mishra', image: "/images/speakers/apurva-mishra.jpg", title: 'Consultant', role: 'Economic Advisory Board to PM', linkedin: null },
-    { name: 'Mr. Anisshh Somani', image: "/images/speakers/ashish-somani.jpg", title: 'Program Director', role: 'INDIAai, Govt of India', linkedin: null },
+    { name: 'Mr. Anisshh Somani', image: "/images/speakers/ashish-somani.jpg", title: 'Program Director', role: 'INDIAai, Govt of India', linkedin: "https://www.linkedin.com/in/anishsomani/?originalSubdomain=in" },
     { name: 'Mr. Aman Bhaiya', image: "/images/speakers/aman-bhaiya.jpg", title: 'Vice President', role: 'SBI Foundation', linkedin: "https://www.linkedin.com/in/amanbhaiya" },
   ],
   corporate: [
@@ -380,7 +380,7 @@ export const COMMITTEES = {
     { name: 'Mr. Bhawen Maroo', image: "/images/committee/bhawen-maroo.jpg", role: 'Sr. Events & Operations Head', designation: 'LEADS Next Gen Centre', linkedin: "https://www.linkedin.com/in/bhawen-maroo/" },
     { name: 'Ms. Shreesha S.N', image: "/images/committee/shreesha-sn.jpg", role: 'Sr. Marketing & Branding Head', designation: 'LEADS Next Gen Centre', linkedin: "https://www.linkedin.com/in/shreesha-s-n-549536292/" },
     { name: 'Ms. Bharvi A Padia', image: "/images/committee/bharvi-padia.jpg", role: 'Sr. Social Media & Design Head', designation: 'LEADS Next Gen Centre', linkedin: "https://www.linkedin.com/in/bharvi-a-7063a62a0/" },
-    { name: 'Mr. Arvind Rakshith G', image: "/images/committee/arvind-rakshith.jpg", role: 'Sr. Finance & Sponsorship Head', designation: 'LEADS Next Gen Centre', linkedin: null },
+    { name: 'Mr. Arvind Rakshith G', image: "/images/committee/arvind-rakshith.jpg", role: 'Sr. Finance & Sponsorship Head', designation: 'LEADS Next Gen Centre', linkedin: "https://www.linkedin.com/in/arvind-rakshith-94a36a375/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" },
     { name: 'Mr. Syed Furqaan Ahmed', image: "/images/committee/syed-furqaan.jpg", role: 'Sr. Research & Development Head', designation: 'LEADS Next Gen Centre', linkedin: "https://www.linkedin.com/in/sydkwests/" }
   ]
 };
