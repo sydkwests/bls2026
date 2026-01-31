@@ -11,7 +11,7 @@ export const SOCIAL_LINKS = {
   instagram_leads: 'https://www.instagram.com/leads_next_gen_ruas?igsh=MmxhODgyOHA3N2V1&utm_source=qr',
   instagram_bls: 'https://www.instagram.com/bharatlead_summit?igsh=b3c5dmtwMG43MmMw&utm_source=qr',
   threads: 'https://www.threads.com/@leads_next_gen_ruas?igshid=NTc4MTIwNjQ2YQ==',
-  linkedin: 'https://www.linkedin.com/in/leads-next-gen_ruas-700555327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app',
+  linkedin: 'https://www.linkedin.com/company/ecellfmcruas/posts/?feedView=all',
   youtube: 'https://youtube.com/@leads_msruas_next_gen_centre?si=o5LCtlMHXJEFnYa6'
 };
 
