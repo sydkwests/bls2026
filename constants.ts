@@ -6,6 +6,8 @@ export const GOOGLE_SCRIPT_URL = "YOUR_GOOGLE_APPS_SCRIPT_WEB_APP_URL";
 export const BROCHURE_URL = "https://drive.google.com/drive/folders/1O-UbShpZ--r94p_vvEJviaqqReF8_xJ0?usp=share_link"; 
 export const PAYMENT_PORTAL_URL = "#"; 
 
+export const SHOWREEL_EMBED_URL = "https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7417166440669253632?compact=1";
+
 export const SOCIAL_LINKS = {
   facebook: 'https://www.facebook.com/share/1EQWdysDEx/?mibextid=wwXIfr',
   instagram_leads: 'https://www.instagram.com/leads_next_gen_ruas?igsh=MmxhODgyOHA3N2V1&utm_source=qr',
