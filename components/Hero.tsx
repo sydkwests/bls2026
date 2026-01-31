@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Calendar, MapPin, ChevronRight, Play, X, UserPlus } from 'lucide-react';
 import { Link } from 'react-router-dom';
+import { SHOWREEL_EMBED_URL } from '../constants';
 
 const CountdownUnit = ({ value, label }: { value: number; label: string }) => (
   <div className="flex flex-col items-center bg-white/80 backdrop-blur-md border border-slate-100 shadow-xl shadow-blue-500/5 p-2 sm:p-3 rounded-xl w-16 sm:w-20 md:w-24 relative overflow-hidden group hover:-translate-y-1 transition-transform duration-300">
