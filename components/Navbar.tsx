@@ -64,7 +64,7 @@ const Navbar: React.FC = () => {
                      <img 
                         src="/images/core/logo.png" 
                         alt="Bharat Lead Summit" 
-                        className="w-full h-full object-contain p-1.5 filter sepia brightness-90 hue-rotate-[190deg] saturate-[300%]" 
+                        className="w-full h-full object-contain p-1.5" 
                      />
                   </div>
                 </Link>
