@@ -39,7 +39,7 @@ const VideoModal = ({ isOpen, onClose }: { isOpen: boolean; onClose: () => void 
                      <iframe 
                         width="100%" 
                         height="100%" 
-                        src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1" 
+                        src={SHOWREEL_EMBED_URL}
                         title="Bharat Lead Summit 2026 Showreel" 
                         frameBorder="0" 
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
