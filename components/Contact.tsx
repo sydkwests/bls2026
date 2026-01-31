@@ -18,7 +18,7 @@ const Contact: React.FC = () => {
                              <img 
                                 src="/images/core/logo.png" 
                                 alt="Logo" 
-                                className="w-full h-full object-contain p-1 filter sepia brightness-90 hue-rotate-[190deg] saturate-[300%]" 
+                                className="w-full h-full object-contain p-1" 
                              />
                         </div>
                         <div>
