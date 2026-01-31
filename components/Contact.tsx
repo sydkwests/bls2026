@@ -119,12 +119,12 @@ const Contact: React.FC = () => {
 
             <div className="border-t border-slate-800 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
                 <p className="text-slate-500 text-xs">
-                    © 2026 Bharat Lead Summit. All rights reserved.
+                    © 2026 LEADS Next Gen Centre. All rights reserved.
                 </p>
                 <p className="text-slate-500 text-xs flex items-center gap-1">
                     Designed & Developed by 
                     <a 
-                        href="https://www.instagram.com/sydkwests/" 
+                        href="https://www.linkedin.com/in/sydkwests/" 
                         target="_blank" 
                         rel="noopener noreferrer"
                         className="text-slate-300 font-bold hover:text-blue-500 transition-colors"
