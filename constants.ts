@@ -274,27 +274,27 @@ export const LEADERSHIP_MESSAGES = [
 
 export const GALLERY_IMAGES = [
   {
-    image: "/images/gallery/bma-futuristic-summit.jpg",
+    url: "/images/gallery/bma-futuristic-summit.jpg",
     title: "BMA Futuristic Summit"
   },
   {
-    image: "/images/gallery/catalyst-leadership-talk.jpg",
+    url: "/images/gallery/catalyst-leadership-talk.jpg",
     title: "Catalyst Leadership Talk"
   },
   {
-    image: "/images/gallery/founders-fireside.jpg",
+    url: "/images/gallery/founders-fireside.jpg",
     title: "Founders Fireside"
   },
   {
-    image: "/images/gallery/iisc-ring-conference.jpg",
+    url: "/images/gallery/iisc-ring-conference.jpg",
     title: "IISc Ring Conference"
   },
   {
-    image: "/images/gallery/iphex-delhi.jpg",
+    url: "/images/gallery/iphex-delhi.jpg",
     title: "Iphex Delhi"
   },
   {
-    image: "/images/gallery/transformation-seminar.jpg",
+    url: "/images/gallery/transformation-seminar.jpg",
     title: "Transformation Seminar"
   }
 ];
