@@ -272,28 +272,28 @@ export const LEADERSHIP_MESSAGES = [
 
 export const GALLERY_IMAGES = [
   {
-    url: "/images/gallery/reen-conference.jpg",
-    title: "International REEN Conference 2025"
+    url: "/images/gallery/bma-futuristic-summit.jpg",
+    title: "BMA Futuristic Summit"
   },
   {
-    url: "/images/gallery/anveshan-conference.jpg",
-    title: "Anveshan Conference"
+    url: "/images/gallery/catalyst-leadership-talk.jpg",
+    title: "Catalyst Leadership Talk"
   },
   {
-    url: "/images/gallery/anq-congress.jpg",
-    title: "ANQ Congress Conference"
+    url: "/images/gallery/founders-fireside.jpg",
+    title: "Founders Fireside"
   },
   {
-    url: "/images/gallery/futuristic-leadership.jpg",
-    title: "Futuristic Leadership Summit 2025"
+    url: "/images/gallery/iisc-ring-conference.jpg",
+    title: "IISc Ring Conference"
   },
   {
-    url: "/images/gallery/iic-meet.jpg",
-    title: "IIC Regional Meet 2025"
+    url: "/images/gallery/iphex-delhi.jpg",
+    title: "Iphex Delhi"
   },
   {
-    url: "/images/gallery/innovation-workshop.jpg",
-    title: "Innovation & Entrepreneurship Workshop"
+    url: "/images/gallery/transformation-seminar.jpg",
+    title: "Transformation Seminar"
   }
 ];
 
@@ -345,7 +345,7 @@ export const SPEAKERS = {
     { name: 'Mr. Rishikesh Patankar', image: "/images/speakers/rishikesh-patankar.jpg", title: 'Vice President', role: 'National Skill Development Corporation', linkedin: "https://www.linkedin.com/in/rishikesh-patankar-ph-d-a0bb0863" },
     { name: 'Mr. Balakrisnan I', image: "/images/speakers/balakrisnan-i.jpg", title: 'Joint Director/ Scientist', role: 'Ministry of Electronics & IT, GoI', linkedin: "https://www.linkedin.com/in/balakrishna-i-9a4257181" },
     { name: 'Mr. Apurva Kumar Mishra', image: "/images/speakers/apurva-mishra.jpg", title: 'Consultant', role: 'Economic Advisory Board to PM', linkedin: null },
-    { name: 'Mr. Ashish Somani', image: "/images/speakers/ashish-somani.jpg", title: 'Program Director', role: 'INDIAai, Govt of India', linkedin: null },
+    { name: 'Mr. Anisshh Somani', image: "/images/speakers/ashish-somani.jpg", title: 'Program Director', role: 'INDIAai, Govt of India', linkedin: null },
     { name: 'Mr. Aman Bhaiya', image: "/images/speakers/aman-bhaiya.jpg", title: 'Vice President', role: 'SBI Foundation', linkedin: "https://www.linkedin.com/in/amanbhaiya" },
   ],
   corporate: [
