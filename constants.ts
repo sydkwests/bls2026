@@ -14,7 +14,7 @@ export const WHATSAPP_NUMBER = "917899293097";
 export const CONTACT_EMAIL = "info@bharatleadsummit.com";
 export const GOOGLE_SCRIPT_URL = "YOUR_GOOGLE_APPS_SCRIPT_WEB_APP_URL"; 
 export const BROCHURE_URL = "https://drive.google.com/file/d/19vNElfu5_yqUFE_ny_nZ2IV_0lqTU5W3/view"; 
-export const PAYMENT_PORTAL_URL = "#"; 
+export const PAYMENT_PORTAL_URL = "https://ruasportal.msruas.ac.in/asd_EventPublicUserMaster.htm?eventID=162"; 
 
 // LinkedIn Video Embed URL
 export const SHOWREEL_EMBED_URL = "https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7417166440669253632?compact=1";
