@@ -212,7 +212,7 @@ const RegisterContent: React.FC = () => {
                                                     transition={{ type: "spring", stiffness: 300 }}
                                                     className="text-xs font-bold text-slate-400 uppercase tracking-wide ml-1"
                                                 >
-                                                    + 18% GST
+                                                    + GST
                                                 </motion.span>
                                             </div>
                                         </div>
